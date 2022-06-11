@@ -1,0 +1,18 @@
+html * {
+    font-size: 1.8rem;
+}
+
+.slidev-layout {
+  
+    h1, h2, h3, h4, p, div {
+      @apply select-none;
+    }
+
+    h1 {
+        @apply text-7xl;
+    }
+
+    h2 {
+        @apply text-5xl;
+    }
+  }
