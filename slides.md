@@ -30,7 +30,7 @@ fonts:
 
 # Learn to Navigate a TypeScript Codebase
 
-By traveling back in time with open source
+using open source
 
 <!--
 Put notes here
