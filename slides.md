@@ -75,11 +75,15 @@ What if we could reverse-engineer it?
  -->
 
 ---
+layout: center
+class: text-center
+---
 
-# Format
+<v-click>
 
-1. Find an open-source repo
+# Time travel
 
+</v-click>
 
 <!-- 
 Here's what we're going to do. 
@@ -93,15 +97,28 @@ Clone and go through steps.
 -->
 
 ---
+layout: center
+class: text-center
+---
+
+[Begin search](https://github.com/issues?q=is%3Aclosed+is%3Aissue+archived%3Afalse+org%3Atesting-library+label%3A%22good+first+issue%22+linked%3Apr)
+
+<!-- 
+
+1. open up GitHub
+2. go to reactg;tes
+
+ -->
+
+---
 
 # Recap
 
 <v-clicks>
 
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+1. Found solved issue
+2. Used formula
+3. Re-solved issue
 
 </v-clicks>
 
@@ -125,9 +142,12 @@ Let's recap. Here's what we did.
 
 ---
 layout: center
+class: text-center
 ---
 
 ![Purple cat inside a folder](/fctt-cat.svg)
+
+F.C.T.T.
 
 ---
 layout: center
