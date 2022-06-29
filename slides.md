@@ -141,7 +141,7 @@ Let's recap. Here's what we did.
 
 ---
 
-# Forumla
+# Formula
 
 <v-clicks>
 
